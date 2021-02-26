@@ -1,0 +1,9 @@
+commit 4c719c09253a646b248c6693e32c38c7d90eeda8
+Author: Emmett Lalish <elalish@google.com>
+Date:   Fri Feb 26 14:44:32 2021 -0800
+
+    Update goldens for r126 (#2059)
+    
+    * updated goldens for r126
+    
+    * fix broken icon link
